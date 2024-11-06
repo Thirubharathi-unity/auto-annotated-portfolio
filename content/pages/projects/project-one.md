@@ -5,9 +5,13 @@ colors: colors-a
 date: '2024-09-15'
 client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  I am proud to have solely developed King of Sticks, a 3D casual game, from
+  concept to publication. As the solo developer, I took on all aspects of game
+  development, including design, programming, 3D modeling, and testing.This
+  project showcases my ability to work independently, manage multiple tasks, and
+  bring a game to life without external support. I successfully implemented game
+  mechanics, AI, physics, and graphics, demonstrating my proficiency in Unity
+  and C#.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
