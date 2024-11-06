@@ -14,7 +14,7 @@ description: >-
   and C#.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/King-of-Sticks-18-07-2024 (2).png
   altText: Project thumbnail image
 media:
   type: ImageBlock
