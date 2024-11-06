@@ -3,7 +3,7 @@ type: ProjectLayout
 title: King of Sticks
 colors: colors-a
 date: '2024-09-15'
-client: Awesome client
+client: ''
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
