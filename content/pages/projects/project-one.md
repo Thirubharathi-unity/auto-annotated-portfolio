@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: King of Sticks
 colors: colors-a
 date: '2024-09-15'
 client: Awesome client
